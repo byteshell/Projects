@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using TaskTrackerCLI.Commands;
 using TaskTrackerCLI.Interfaces;
 using TaskTrackerCLI.Repositories;
